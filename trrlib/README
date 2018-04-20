@@ -1,0 +1,6 @@
+This folder contains code that has been taken 
+from third party sources.
+
+Code         Author                                      License
+--------     ------                                      -------
+xdr.f90      James W. Barnett <jbarnet4@tulane.edu>      LGPL (not specified, so libxdr license is adoted)
